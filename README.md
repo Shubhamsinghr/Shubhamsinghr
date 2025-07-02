@@ -1,5 +1,3 @@
-Hi, I'm Shubham
-Senior Full Stack Developer | 9+ Years of Experience | .NET | Node.js | React | AI Integrations 
 I am a Senior Full Stack Developer with 9+ years of experience building scalable, high-performance applications across .NET, Node.js, React, Angular, and AI-integrated systems. I specialize in designing robust backend architectures, dynamic frontend interfaces, and intelligent features using modern tools and frameworks.
 
 My background spans enterprise SaaS platforms, AI-driven solutions, cloud-native apps, and eCommerce systems across industries like finance, healthcare, retail, and professional services.
